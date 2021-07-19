@@ -1,2 +1,2 @@
-# Jordan Hudgens React Portfolio Application
+# Kerby Midy React Portfolio Application
 
